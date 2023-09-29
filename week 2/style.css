@@ -5,7 +5,7 @@ body {
        margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    color: #149c14;
+    color: #710745;
 }
 
 
@@ -150,7 +150,7 @@ main h3 {
 .cta-button {
    display: grid;
     padding: 10px 20px;
-    background-color: #b11414;
+    background-color: #d54b0f;
     color: #4a30da;
     text-decoration: none;
     border-radius: 10px;
