@@ -1,3 +1,5 @@
 # F28WP-lab1
 
 This is a read me file
+
+So basically this report will state the implementation or changes in the website. I had first imported images into my gallery.html and set their height width. Also in the same gallery.html I had applied changes to the placement of the images, that it should be in the center. Alongside all of this in order to navigate from slide shows I made a Previous and next button in both the HTML and the CSS. In the CSS I changed some width and height of these buttons and also ensuring space between them, also positioning the container. Next about the proper functionality of the slides I did some Javascript, which ensured the proper movement of slides from previous to next and display the current slide. About the form, I made two seperate files for it. One in HTML format and another in CSS format. In the form.html I implemented some the basic html for it, such as making the necessary things like Username Email Password and confirm password, after that I implemented javascript for the validation of the input in the form. The css code was provided by lecturer so I copy pasted it in the another file which is form.css.
