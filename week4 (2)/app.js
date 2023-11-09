@@ -14,7 +14,7 @@ btn.addEventListener("click", () => {
     } else {
         // Step 5: Make an HTTP request to OpenWeatherMap API
         const apiKey = "af3d480d812c834516b9ee7006854325";
-        const apiUrl = 'https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${apiKey}';
+        const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${apiKey}`;
 
         fetch(apiUrl)
             .then((response) => {
